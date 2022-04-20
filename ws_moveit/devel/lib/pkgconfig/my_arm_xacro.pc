@@ -1,0 +1,1 @@
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/my_arm_xacro/lib/pkgconfig/my_arm_xacro.pc

@@ -1,0 +1,7 @@
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KProcessus arrêté signal terminated program cc1plus
+compilation terminated.
+make[2]: *** [plan_execution/CMakeFiles/moveit_plan_execution.dir/build.make:63 : plan_execution/CMakeFiles/moveit_plan_execution.dir/src/plan_with_sensing.cpp.o] Erreur 1
+make[2]: *** Attente des tâches non terminées....
+make[1]: *** [CMakeFiles/Makefile2:3438 : plan_execution/CMakeFiles/moveit_plan_execution.dir/all] Erreur 2
+make[1]: *** Attente des tâches non terminées....
+make: *** [Makefile:141 : all] Erreur 2

@@ -1,0 +1,8 @@
+prefix=/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/my_arm_xacro
+
+Name: my_arm_xacro
+Description: Description of my_arm_xacro
+Version: 0.3.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,1 @@
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/srdfdom/share/srdfdom/cmake/srdfdomConfig-version.cmake

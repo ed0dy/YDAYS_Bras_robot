@@ -1,0 +1,16 @@
+Symlinking /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig.cmake
+Symlinking /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig-version.cmake
+Symlinking /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/lib/pkgconfig/my_arm_xacro.pc
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/my_arm_xacro/cmake.lock, /home/jean-pascal/ws_moveit/devel/./cmake.lock)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/my_arm_xacro/share/my_arm_xacro/cmake/my_arm_xacroConfig.cmake, /home/jean-pascal/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig.cmake)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/my_arm_xacro/share/my_arm_xacro/cmake/my_arm_xacroConfig-version.cmake, /home/jean-pascal/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig-version.cmake)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/my_arm_xacro/lib/libtest_robot_arm_moveit_ikfast_plugin.so, /home/jean-pascal/ws_moveit/devel/lib/libtest_robot_arm_moveit_ikfast_plugin.so)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/my_arm_xacro/lib/pkgconfig/my_arm_xacro.pc, /home/jean-pascal/ws_moveit/devel/lib/pkgconfig/my_arm_xacro.pc)
+Unlinking: /home/jean-pascal/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig.cmake
+Already unlinked: {}
+Unlinking: /home/jean-pascal/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/jean-pascal/ws_moveit/devel/lib/libtest_robot_arm_moveit_ikfast_plugin.so
+Already unlinked: {}
+Unlinking: /home/jean-pascal/ws_moveit/devel/lib/pkgconfig/my_arm_xacro.pc
+Already unlinked: {}

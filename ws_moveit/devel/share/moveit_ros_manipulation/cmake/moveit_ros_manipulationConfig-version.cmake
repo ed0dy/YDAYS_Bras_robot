@@ -1,0 +1,1 @@
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_manipulation/share/moveit_ros_manipulation/cmake/moveit_ros_manipulationConfig-version.cmake

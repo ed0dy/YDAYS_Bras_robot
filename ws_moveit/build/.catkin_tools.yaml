@@ -1,0 +1,6 @@
+devel_space: /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel
+install: false
+install_space: /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/install
+profile: default
+source_space: /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/src
+workspace: /home/jean-pascal/YDAYS_Bras_robot/ws_moveit

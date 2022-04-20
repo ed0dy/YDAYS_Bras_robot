@@ -1,0 +1,5 @@
+ros-moveit-arm/my_arm_xacro
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/my_arm_xacro/cmake.lock /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/./cmake.lock
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/my_arm_xacro/share/my_arm_xacro/cmake/my_arm_xacroConfig.cmake /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig.cmake
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/my_arm_xacro/share/my_arm_xacro/cmake/my_arm_xacroConfig-version.cmake /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/share/my_arm_xacro/cmake/my_arm_xacroConfig-version.cmake
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/my_arm_xacro/lib/pkgconfig/my_arm_xacro.pc /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/lib/pkgconfig/my_arm_xacro.pc

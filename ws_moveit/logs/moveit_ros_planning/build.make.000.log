@@ -1,0 +1,246 @@
+[35m[1mScanning dependencies of target moveit_ros_planning_gencfg[0m
+[  1%] [34m[1mGenerating dynamic reconfigure files from planning_scene_monitor/cfg/PlanningSceneMonitorDynamicReconfigure.cfg: /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/include/moveit_ros_planning/PlanningSceneMonitorDynamicReconfigureConfig.h /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/python3/dist-packages/moveit_ros_planning/cfg/PlanningSceneMonitorDynamicReconfigureConfig.py[0m
+Generating reconfiguration files for PlanningSceneMonitorDynamicReconfigure in moveit_ros_planning
+Wrote header file in /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/include/moveit_ros_planning/PlanningSceneMonitorDynamicReconfigureConfig.h
+[  3%] [34m[1mGenerating dynamic reconfigure files from trajectory_execution_manager/cfg/TrajectoryExecutionDynamicReconfigure.cfg: /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/include/moveit_ros_planning/TrajectoryExecutionDynamicReconfigureConfig.h /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/python3/dist-packages/moveit_ros_planning/cfg/TrajectoryExecutionDynamicReconfigureConfig.py[0m
+Generating reconfiguration files for TrajectoryExecutionDynamicReconfigure in moveit_ros_planning
+Wrote header file in /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/include/moveit_ros_planning/TrajectoryExecutionDynamicReconfigureConfig.h
+[  5%] [34m[1mGenerating dynamic reconfigure files from plan_execution/cfg/PlanExecutionDynamicReconfigure.cfg: /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/include/moveit_ros_planning/PlanExecutionDynamicReconfigureConfig.h /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/python3/dist-packages/moveit_ros_planning/cfg/PlanExecutionDynamicReconfigureConfig.py[0m
+Generating reconfiguration files for PlanExecutionDynamicReconfigure in moveit_ros_planning
+Wrote header file in /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/include/moveit_ros_planning/PlanExecutionDynamicReconfigureConfig.h
+[  6%] [34m[1mGenerating dynamic reconfigure files from plan_execution/cfg/SenseForPlanDynamicReconfigure.cfg: /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/include/moveit_ros_planning/SenseForPlanDynamicReconfigureConfig.h /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/python3/dist-packages/moveit_ros_planning/cfg/SenseForPlanDynamicReconfigureConfig.py[0m
+Generating reconfiguration files for SenseForPlanDynamicReconfigure in moveit_ros_planning
+Wrote header file in /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/include/moveit_ros_planning/SenseForPlanDynamicReconfigureConfig.h
+[  6%] Built target moveit_ros_planning_gencfg
+[35m[1mScanning dependencies of target moveit_rdf_loader[0m
+[  8%] [32mBuilding CXX object rdf_loader/CMakeFiles/moveit_rdf_loader.dir/src/rdf_loader.cpp.o[0m
+[ 10%] [32m[1mLinking CXX shared library /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/libmoveit_rdf_loader.so[0m
+[ 10%] Built target moveit_rdf_loader
+[35m[1mScanning dependencies of target moveit_collision_plugin_loader[0m
+[ 11%] [32mBuilding CXX object collision_plugin_loader/CMakeFiles/moveit_collision_plugin_loader.dir/src/collision_plugin_loader.cpp.o[0m
+[35m[1mScanning dependencies of target moveit_kinematics_plugin_loader[0m
+[ 13%] [32mBuilding CXX object kinematics_plugin_loader/CMakeFiles/moveit_kinematics_plugin_loader.dir/src/kinematics_plugin_loader.cpp.o[0m
+[35m[1mScanning dependencies of target moveit_constraint_sampler_manager_loader[0m
+[ 15%] [32mBuilding CXX object constraint_sampler_manager_loader/CMakeFiles/moveit_constraint_sampler_manager_loader.dir/src/constraint_sampler_manager_loader.cpp.o[0m
+[ 16%] [32m[1mLinking CXX shared library /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/libmoveit_collision_plugin_loader.so[0m
+[ 16%] Built target moveit_collision_plugin_loader
+[35m[1mScanning dependencies of target moveit_planning_pipeline[0m
+[ 18%] [32mBuilding CXX object planning_pipeline/CMakeFiles/moveit_planning_pipeline.dir/src/planning_pipeline.cpp.o[0m
+[35m[1mScanning dependencies of target moveit_list_request_adapter_plugins[0m
+[ 20%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_list_request_adapter_plugins.dir/src/list.cpp.o[0m
+[ 21%] [32m[1mLinking CXX shared library /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/libmoveit_kinematics_plugin_loader.so[0m
+[ 23%] [32m[1mLinking CXX shared library /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/libmoveit_constraint_sampler_manager_loader.so[0m
+[ 23%] Built target moveit_kinematics_plugin_loader
+[35m[1mScanning dependencies of target moveit_default_planning_request_adapter_plugins[0m
+[ 23%] Built target moveit_constraint_sampler_manager_loader
+[35m[1mScanning dependencies of target dynamic_reconfigure_gencfg[0m
+[ 23%] Built target dynamic_reconfigure_gencfg
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_cpp[0m
+[ 23%] Built target dynamic_reconfigure_generate_messages_cpp
+[35m[1mScanning dependencies of target actionlib_generate_messages_py[0m
+[ 23%] Built target actionlib_generate_messages_py
+[ 25%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_default_planning_request_adapter_plugins.dir/src/empty.cpp.o[0m
+[35m[1mScanning dependencies of target actionlib_generate_messages_nodejs[0m
+[ 25%] Built target actionlib_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_generate_messages_cpp[0m
+[ 25%] Built target actionlib_generate_messages_cpp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_nodejs[0m
+[ 25%] Built target dynamic_reconfigure_generate_messages_nodejs
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_py[0m
+[ 25%] Built target tf2_msgs_generate_messages_py
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_lisp[0m
+[ 25%] Built target tf2_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_lisp[0m
+[ 25%] Built target dynamic_reconfigure_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_cpp[0m
+[ 25%] Built target tf2_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_py[0m
+[ 25%] Built target octomap_msgs_generate_messages_py
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_nodejs[0m
+[ 25%] Built target octomap_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_lisp[0m
+[ 25%] Built target octomap_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_cpp[0m
+[ 25%] Built target octomap_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_nodejs[0m
+[ 25%] Built target object_recognition_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[ 25%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_nodejs[0m
+[ 25%] Built target visualization_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_lisp[0m
+[ 25%] Built target visualization_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_eus[0m
+[ 25%] Built target dynamic_reconfigure_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_nodejs[0m
+[ 25%] Built target geometry_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_eus[0m
+[ 25%] Built target visualization_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_cpp[0m
+[ 25%] Built target geometry_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_py[0m
+[ 25%] Built target moveit_msgs_generate_messages_py
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_lisp[0m
+[ 25%] Built target object_recognition_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_cpp[0m
+[ 25%] Built target actionlib_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target octomap_msgs_generate_messages_eus[0m
+[ 25%] Built target octomap_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_cpp[0m
+[ 25%] Built target object_recognition_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[ 25%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[ 25%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_eus[0m
+[ 25%] Built target geometry_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[ 25%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_py[0m
+[ 25%] Built target geometry_msgs_generate_messages_py
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_eus[0m
+[ 25%] Built target moveit_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_eus[0m
+[ 25%] Built target tf2_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_py[0m
+[ 25%] Built target sensor_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[ 25%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target geometry_msgs_generate_messages_lisp[0m
+[ 25%] Built target geometry_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_py[0m
+[ 25%] Built target visualization_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_lisp[0m
+[ 25%] Built target actionlib_generate_messages_lisp
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_cpp[0m
+[ 25%] Built target shape_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[ 25%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target _catkin_empty_exported_target[0m
+[ 25%] Built target _catkin_empty_exported_target
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[ 25%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target tf2_msgs_generate_messages_nodejs[0m
+[ 25%] Built target tf2_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_lisp[0m
+[ 25%] Built target moveit_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[ 25%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target dynamic_reconfigure_generate_messages_py[0m
+[ 25%] Built target dynamic_reconfigure_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_eus[0m
+[ 25%] Built target actionlib_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_eus[0m
+[ 25%] Built target shape_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[ 25%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[ 25%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_nodejs[0m
+[ 25%] Built target shape_msgs_generate_messages_nodejs
+[ 26%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_default_planning_request_adapter_plugins.dir/src/fix_start_state_bounds.cpp.o[0m
+[ 28%] [32m[1mLinking CXX shared library /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/libmoveit_planning_pipeline.so[0m
+[ 28%] Built target moveit_planning_pipeline
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_py[0m
+[ 28%] Built target shape_msgs_generate_messages_py
+[35m[1mScanning dependencies of target actionlib_generate_messages_eus[0m
+[ 28%] Built target actionlib_generate_messages_eus
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_py[0m
+[ 28%] Built target trajectory_msgs_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[ 28%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[ 28%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_py[0m
+[ 28%] Built target object_recognition_msgs_generate_messages_py
+[ 30%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_default_planning_request_adapter_plugins.dir/src/fix_start_state_collision.cpp.o[0m
+[ 31%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_default_planning_request_adapter_plugins.dir/src/fix_start_state_path_constraints.cpp.o[0m
+[ 33%] [32m[1mLinking CXX executable /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/moveit_ros_planning/moveit_list_request_adapter_plugins[0m
+[ 33%] Built target moveit_list_request_adapter_plugins
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[ 33%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_py[0m
+[ 33%] Built target actionlib_msgs_generate_messages_py
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_cpp[0m
+[ 33%] Built target moveit_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target moveit_msgs_generate_messages_nodejs[0m
+[ 33%] Built target moveit_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[ 33%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_lisp[0m
+[ 33%] Built target actionlib_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target actionlib_msgs_generate_messages_nodejs[0m
+[ 33%] Built target actionlib_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_cpp[0m
+[ 33%] Built target trajectory_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_cpp[0m
+[ 33%] Built target sensor_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target visualization_msgs_generate_messages_cpp[0m
+[ 33%] Built target visualization_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_eus[0m
+[ 33%] Built target sensor_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_lisp[0m
+[ 33%] Built target sensor_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target sensor_msgs_generate_messages_nodejs[0m
+[ 33%] Built target sensor_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[ 33%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_eus[0m
+[ 33%] Built target trajectory_msgs_generate_messages_eus
+[ 35%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_default_planning_request_adapter_plugins.dir/src/fix_workspace_bounds.cpp.o[0m
+[ 36%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_default_planning_request_adapter_plugins.dir/src/add_time_parameterization.cpp.o[0m
+[ 38%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_default_planning_request_adapter_plugins.dir/src/add_iterative_spline_parameterization.cpp.o[0m
+[ 40%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_default_planning_request_adapter_plugins.dir/src/add_time_optimal_parameterization.cpp.o[0m
+[ 41%] [32mBuilding CXX object planning_request_adapter_plugins/CMakeFiles/moveit_default_planning_request_adapter_plugins.dir/src/resolve_constraint_frames.cpp.o[0m
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_nodejs[0m
+[ 41%] Built target trajectory_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target shape_msgs_generate_messages_lisp[0m
+[ 41%] Built target shape_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target trajectory_msgs_generate_messages_lisp[0m
+[ 41%] Built target trajectory_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target object_recognition_msgs_generate_messages_eus[0m
+[ 41%] Built target object_recognition_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target moveit_robot_model_loader[0m
+[ 43%] [32mBuilding CXX object robot_model_loader/CMakeFiles/moveit_robot_model_loader.dir/src/robot_model_loader.cpp.o[0m
+[ 45%] [32m[1mLinking CXX shared library /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/libmoveit_default_planning_request_adapter_plugins.so[0m
+[ 45%] Built target moveit_default_planning_request_adapter_plugins
+[ 46%] [32m[1mLinking CXX shared library /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/libmoveit_robot_model_loader.so[0m
+[ 46%] Built target moveit_robot_model_loader
+[35m[1mScanning dependencies of target moveit_planning_scene_monitor[0m
+[35m[1mScanning dependencies of target moveit_kinematics_speed_and_validity_evaluator[0m
+[35m[1mScanning dependencies of target moveit_evaluate_state_operations_speed[0m
+[35m[1mScanning dependencies of target moveit_print_planning_model_info[0m
+[ 48%] [32mBuilding CXX object planning_components_tools/CMakeFiles/moveit_print_planning_model_info.dir/src/print_planning_model_info.cpp.o[0m
+[ 50%] [32mBuilding CXX object planning_components_tools/CMakeFiles/moveit_kinematics_speed_and_validity_evaluator.dir/src/kinematics_speed_and_validity_evaluator.cpp.o[0m
+[ 51%] [32mBuilding CXX object planning_components_tools/CMakeFiles/moveit_evaluate_state_operations_speed.dir/src/evaluate_state_operations_speed.cpp.o[0m
+[ 53%] [32mBuilding CXX object planning_scene_monitor/CMakeFiles/moveit_planning_scene_monitor.dir/src/planning_scene_monitor.cpp.o[0m
+[ 55%] [32m[1mLinking CXX executable /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/moveit_ros_planning/moveit_print_planning_model_info[0m
+[ 55%] Built target moveit_print_planning_model_info
+[ 56%] [32mBuilding CXX object planning_scene_monitor/CMakeFiles/moveit_planning_scene_monitor.dir/src/current_state_monitor.cpp.o[0m
+[ 58%] [32m[1mLinking CXX executable /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/moveit_ros_planning/moveit_evaluate_state_operations_speed[0m
+[ 58%] Built target moveit_evaluate_state_operations_speed
+[ 60%] [32mBuilding CXX object planning_scene_monitor/CMakeFiles/moveit_planning_scene_monitor.dir/src/trajectory_monitor.cpp.o[0m
+[ 61%] [32m[1mLinking CXX executable /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/moveit_ros_planning/moveit_kinematics_speed_and_validity_evaluator[0m
+[ 61%] Built target moveit_kinematics_speed_and_validity_evaluator
+[ 63%] [32m[1mLinking CXX shared library /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/libmoveit_planning_scene_monitor.so[0m
+[ 63%] Built target moveit_planning_scene_monitor
+[35m[1mScanning dependencies of target moveit_compare_collision_checking_speed_fcl_bullet[0m
+[35m[1mScanning dependencies of target moveit_display_random_state[0m
+[35m[1mScanning dependencies of target demo_scene[0m
+[35m[1mScanning dependencies of target moveit_print_planning_scene_info[0m
+[ 65%] [32mBuilding CXX object planning_components_tools/CMakeFiles/moveit_display_random_state.dir/src/display_random_state.cpp.o[0m
+[ 66%] [32mBuilding CXX object planning_components_tools/CMakeFiles/moveit_print_planning_scene_info.dir/src/print_planning_scene_info.cpp.o[0m
+[ 68%] [32mBuilding CXX object planning_scene_monitor/CMakeFiles/demo_scene.dir/demos/demo_scene.cpp.o[0m
+[ 70%] [32mBuilding CXX object planning_components_tools/CMakeFiles/moveit_compare_collision_checking_speed_fcl_bullet.dir/src/compare_collision_speed_checking_fcl_bullet.cpp.o[0m
+[01m[Kc++:[m[K [01;31m[Kfatal error: [m[KProcessus arrêté signal terminated program cc1plus
+compilation terminated.
+make[2]: *** [planning_components_tools/CMakeFiles/moveit_print_planning_scene_info.dir/build.make:63 : planning_components_tools/CMakeFiles/moveit_print_planning_scene_info.dir/src/print_planning_scene_info.cpp.o] Erreur 1
+make[1]: *** [CMakeFiles/Makefile2:3130 : planning_components_tools/CMakeFiles/moveit_print_planning_scene_info.dir/all] Erreur 2
+make[1]: *** Attente des tâches non terminées....
+[ 71%] [32m[1mLinking CXX executable /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/moveit_ros_planning/demo_scene[0m
+[ 71%] Built target demo_scene
+[ 73%] [32m[1mLinking CXX executable /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/moveit_ros_planning/moveit_display_random_state[0m
+[ 73%] Built target moveit_display_random_state
+[ 75%] [32m[1mLinking CXX executable /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_ros_planning/lib/moveit_ros_planning/moveit_compare_collision_checking_speed_fcl_bullet[0m
+[ 75%] Built target moveit_compare_collision_checking_speed_fcl_bullet
+make: *** [Makefile:141 : all] Erreur 2

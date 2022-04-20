@@ -1,0 +1,25 @@
+Symlinking /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/share/srdfdom/cmake/srdfdomConfig.cmake
+Symlinking /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/share/srdfdom/cmake/srdfdomConfig-version.cmake
+Symlinking /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/lib/libsrdfdom.so.0.6.3
+Symlinking /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/lib/libsrdfdom.so
+Symlinking /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/lib/python3/dist-packages/srdfdom/__init__.py
+Symlinking /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/lib/pkgconfig/srdfdom.pc
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/srdfdom/cmake.lock, /home/jean-pascal/ws_moveit/devel/./cmake.lock)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/srdfdom/share/srdfdom/cmake/srdfdomConfig.cmake, /home/jean-pascal/ws_moveit/devel/share/srdfdom/cmake/srdfdomConfig.cmake)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/srdfdom/share/srdfdom/cmake/srdfdomConfig-version.cmake, /home/jean-pascal/ws_moveit/devel/share/srdfdom/cmake/srdfdomConfig-version.cmake)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/srdfdom/lib/libsrdfdom.so.0.6.3, /home/jean-pascal/ws_moveit/devel/lib/libsrdfdom.so.0.6.3)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/srdfdom/lib/libsrdfdom.so, /home/jean-pascal/ws_moveit/devel/lib/libsrdfdom.so)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/srdfdom/lib/python3/dist-packages/srdfdom/__init__.py, /home/jean-pascal/ws_moveit/devel/lib/python3/dist-packages/srdfdom/__init__.py)
+Cleaning: (/home/jean-pascal/ws_moveit/devel/.private/srdfdom/lib/pkgconfig/srdfdom.pc, /home/jean-pascal/ws_moveit/devel/lib/pkgconfig/srdfdom.pc)
+Unlinking: /home/jean-pascal/ws_moveit/devel/share/srdfdom/cmake/srdfdomConfig.cmake
+Already unlinked: {}
+Unlinking: /home/jean-pascal/ws_moveit/devel/share/srdfdom/cmake/srdfdomConfig-version.cmake
+Already unlinked: {}
+Unlinking: /home/jean-pascal/ws_moveit/devel/lib/libsrdfdom.so.0.6.3
+Already unlinked: {}
+Unlinking: /home/jean-pascal/ws_moveit/devel/lib/libsrdfdom.so
+Already unlinked: {}
+Unlinking: /home/jean-pascal/ws_moveit/devel/lib/python3/dist-packages/srdfdom/__init__.py
+Already unlinked: {}
+Unlinking: /home/jean-pascal/ws_moveit/devel/lib/pkgconfig/srdfdom.pc
+Already unlinked: {}

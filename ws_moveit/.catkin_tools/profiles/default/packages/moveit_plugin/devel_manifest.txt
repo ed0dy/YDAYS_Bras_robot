@@ -1,0 +1,5 @@
+ros-moveit-arm/moveit_plugin
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_plugin/cmake.lock /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/./cmake.lock
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_plugin/share/moveit_plugin/cmake/moveit_pluginConfig-version.cmake /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/share/moveit_plugin/cmake/moveit_pluginConfig-version.cmake
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_plugin/share/moveit_plugin/cmake/moveit_pluginConfig.cmake /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/share/moveit_plugin/cmake/moveit_pluginConfig.cmake
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/moveit_plugin/lib/pkgconfig/moveit_plugin.pc /home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/lib/pkgconfig/moveit_plugin.pc

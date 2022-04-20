@@ -1,0 +1,1 @@
+/home/jean-pascal/YDAYS_Bras_robot/ws_moveit/devel/.private/my_arm_xacro/share/my_arm_xacro/cmake/my_arm_xacroConfig-version.cmake
