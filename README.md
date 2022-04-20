@@ -39,6 +39,8 @@ roslaunch my_arm_xacro demo.launch rviz_tutorial:=true
 
 Ajouter un plugin de kinematics
 
+Ajouter la pince
+
 ## ros-moveit-arm
 
 Code et fichiers 3D pour le bras robot / ROS and MoveIt
